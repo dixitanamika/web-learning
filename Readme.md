@@ -16,3 +16,16 @@ Hey this is Anamika Dixit. You can visit my Github page [here](https://dixitanam
 - Learned about react node and next and there difference
 - Working on my own portfolio from scratch.
 - watched Hitesh Chaudhary js videos. 
+
+##    Commands
+
+### clone
+=> git clone https://github.com/dixitanamika/web-learning.git
+=> cd web-learning
+=> code . // it will open vs code
+
+### To setup local git user
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
