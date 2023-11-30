@@ -9,3 +9,10 @@ Hey this is Anamika Dixit. You can visit my Github page [here](https://dixitanam
 - How to commit code 
 - How to use Github
 - Created my own Github page.
+
+## Day 2
+
+- Learned about Stack and Heap memory storage.
+- Learned about react node and next and there difference
+- Working on my own portfolio from scratch.
+- watched Hitesh Chaudhary js videos. 
